@@ -1,5 +1,9 @@
 # Magnesium
 
+Copyright 2016, David Young
+ARCHIVED for historical reasons; 
+Go to [Main Mg](http://github.com/tgsstdio/Mg) repository for latest version
+
 C# graphics frontend interface to Vulkan (or any graphics library)
 
 # Version 3.0.0
