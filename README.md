@@ -1,5 +1,6 @@
 # Magnesium
 
+Go to [Main Mg repository](https://github.com/tgsstdio/Mg) repository for latest changess
 
 ## ARCHIVED for historical reasons;
 ### Copyright 2016. David Young
