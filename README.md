@@ -1,5 +1,10 @@
 # Magnesium
 
+
+## ARCHIVED for historical reasons;
+### Copyright 2016. David Young
+
+
 C# graphics frontend interface to Vulkan (or any graphics library)
 
 # Version 4.0.0
